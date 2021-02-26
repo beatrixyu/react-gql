@@ -48,7 +48,7 @@ body {
 }
 
 .container .pokemon__name {
-  background-color: #bf61e4;
+  background-color: hsl(209, 71%, 64%);
   text-align: center;
   padding: 10px;
 }
